@@ -1,4 +1,4 @@
 # Vanguard
 Private RobloxScript
 
-```Current Version: V1```
+```Api/Script Ver: V1```

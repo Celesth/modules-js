@@ -1,14 +1,17 @@
 # Vanguard
 Vanguard Is A Private-Open Source Script
-For Now
+For Now.
 
-I Will Be Focusing On My Life First.
+```
+Api: V1
+Created On: September 1st 2024
+```
 
-After i Note Down The Important Exploits.
-I Will Release It
 
-If I'm Feeling Happy or smh
+I'll Check If Exploiting In Advance & Normal Games, Or Maybe An Auto Detection.
+With Some Basic Information About The Local Player(You).
 
-I'll Release Quickly 🗣️🔥
+Not Sure Making This Will Be Worth It.
+Since PC Exploiting Died Because Of Byfron.
+Not Rly Sure.
 
-```Api: V1```
